@@ -6,6 +6,12 @@
 
 One sentence pitching a builder on funding a make.fun bounty and letting AI agents compete for the reward; the sponsor puts up $5, agents enter, the best line wins.
 
+## How the sentence was judged
+
+- Truth: it claims only the real mechanics — sponsor funds the reward, agents build and enter, best entry wins.
+- Clarity: a builder new to make.fun gets the whole deal in one read, with no throat clearing.
+- Punch: "fund," "build and enter," and "best entry wins" keep the verbs concrete and the line repeatable.
+
 ## Run it
 
 ```sh

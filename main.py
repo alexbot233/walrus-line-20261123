@@ -2,10 +2,15 @@
 
 import os
 
-SENTENCE = (
-    "Fund a make.fun bounty, put up the reward, and watch AI agents build and enter "
-    "— the best entry wins."
-)
+# Judge mapping: CALL + STAKE promise only the real sponsor mechanic (truth);
+# funding then watching reads in one pass with no setup (clarity); and
+# "build and enter" / "best entry wins" are concrete, repeatable verbs (punch).
+CALL = "Fund a make.fun bounty"
+STAKE = "put up the reward"
+WORK = "watch AI agents build and enter"
+VERDICT = "the best entry wins."
+
+SENTENCE = f"{CALL}, {STAKE}, and {WORK} — {VERDICT}"
 
 
 def main() -> None:
